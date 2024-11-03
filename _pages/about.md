@@ -13,4 +13,4 @@ My research interest includes Time Series Forecasting and Spatio-Temporal Series
 
 If you want to get in touch with me and exchange ideas, feel free to email me!
 [Email](mailto:qhb8n24@outlook.com)
-[Github](https://github.com/](https://github.com/HowardQiuu)
+[Github](https://github.com/HowardQiuu)
